@@ -1,5 +1,7 @@
 # DPDK-HYPERSCAN-SAMPLE
 
+Purpose: combining hyperscan pattern matching with DPDK allows use of DPI with packet parse-processing functionlities. This especially useful in case of VM or Network functions
+
 pre-requisties:-
 DPDK - build for target machine
 HYPERSCAN - build for target machine
